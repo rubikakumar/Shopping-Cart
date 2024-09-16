@@ -53,10 +53,10 @@ Once the application is running, you'll be able to:
 
 ## Code Explanation
 The main components of the application are:
-**App.jsx**: This is the main component where the cart functionality is implemented. It also renders the product listing via ProductList.jsx.
-**ProductList.jsx**: Displays the list of products and handles adding/removing items from the cart.
-**app.css**: Contains global styles for the application.
-**ProductList.css**: Handles the styling for the product listing section.
+- **App.jsx**: This is the main component where the cart functionality is implemented. It also renders the product listing via ProductList.jsx.
+- **ProductList.jsx**: Displays the list of products and handles adding/removing items from the cart.
+- **app.css**: Contains global styles for the application.
+- **ProductList.css**: Handles the styling for the product listing section.
 
 **Key Functions:**
 - addToCart(product): Adds a product to the cart.
@@ -64,6 +64,6 @@ The main components of the application are:
 - isInCart(product): Checks if a product is already in the cart.
 
 ## Development Process
-A structured commit history is maintained, documenting each step of the development.
-Features were added incrementally, starting from basic product listing to cart functionality.
+- A structured commit history is maintained, documenting each step of the development.
+- Features were added incrementally, starting from basic product listing to cart functionality.
    
